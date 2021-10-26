@@ -1,2 +1,2 @@
-# zombie-crush-2
-project solution for c30
+# aplasta-al-zombi-2
+solución del proyecto para c30
